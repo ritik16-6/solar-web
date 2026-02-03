@@ -158,7 +158,7 @@ hr {
 
 .hero-btn a {
   text-decoration: none;
-  padding: 12px 14px;
+  padding: 12px 10px;
   border-radius: 999px;
   font-weight: 700;
   margin-right: 14px;
@@ -328,4 +328,3 @@ footer {
     padding: 30px;
   }
 }
-
